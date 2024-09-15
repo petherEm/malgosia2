@@ -293,8 +293,8 @@ function Careers() {
                       </span>{' '}
                       <p className="">
                         Supported the Chief Separation Officer in the spin-off
-                        of CNH Industrial’s On-Highway business, focusing on
-                        optimizing cost structures and aligning investment
+                        of CNH Industrial&apos;s On-Highway business, focusing
+                        on optimizing cost structures and aligning investment
                         priorities for CNH Industrial and Iveco Group. Conducted
                         market intelligence, M&A assessments, and executed
                         strategic transactions, including divestitures and joint
@@ -342,9 +342,9 @@ function Careers() {
                       <p className="">
                         Gained a competitive edge by analyzing market trends and
                         competitors, while ensuring adherence to BER guidelines
-                        and IVECO’s principles. Led the transformation of the
-                        distribution network, surpassing sales expectations, and
-                        successfully acquired 12 new partners in Poland and
+                        and IVECO&apos;s principles. Led the transformation of
+                        the distribution network, surpassing sales expectations,
+                        and successfully acquired 12 new partners in Poland and
                         Ukraine. Developed a high-performing workforce by
                         recruiting top talent and executing motivational
                         programs within the dealer network.
@@ -370,9 +370,9 @@ function Careers() {
                         Successfully navigated the 2008-2009 financial crisis by
                         renegotiating loans, restructuring assets, and
                         collaborating with banks and legal offices. Implemented
-                        dealer stock financing through the 'Floor Plan' with CNH
-                        Capital, enhancing operations, and overseeing retail
-                        financing and sales initiatives.
+                        dealer stock financing through the &apos;Floor
+                        Plan&apos; with CNH Capital, enhancing operations, and
+                        overseeing retail financing and sales initiatives.
                       </p>
                     </div>
                   </td>
